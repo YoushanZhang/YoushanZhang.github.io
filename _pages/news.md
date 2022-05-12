@@ -22,8 +22,4 @@ author_profile: true
 * Aug./05/2021. I successfully defended my Ph.D. dissertation "Unsupervised Domain Adaptation for Visual Recognition".
 
 
----
-* E-mail: yz945 [at] cornell.edu
-* Twitter: [staeiou](http://twitter.com/Staeiou)
-* Google Scholar: [author:geiger-r-stuart](http://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en)
-* Wikipedia: [staeiou](http://en.wikipedia.org/wiki/User:Staeiou)
+
