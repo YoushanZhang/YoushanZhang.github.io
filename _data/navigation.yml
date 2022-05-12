@@ -5,6 +5,9 @@ main:
     
   - title: "News"
     url: /news/
+
+  - title: "CV"
+    url: /cv/
     
   - title: "Publications"
     url: /publications/
@@ -20,10 +23,7 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
+       
   - title: "Guide"
     url: /markdown/
     
