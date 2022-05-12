@@ -9,46 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* M.S.  in Neuroimaging and Informatics, University of Southern California (2017)
-* Ph.D. in Computer Science, Lehigh University (2021)
-
-
 Professional experience
 ======
+* <b> Cornell University</b> (2021 -2022 )
 * Postdoc 
-  * Cornell University
-  * 2021 -2022 
-  
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+<p>&ensp;</p>
+
+
+Education
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* <b>Lehigh University</b> (2021)
+* Ph.D. in Computer Science
+
+
+<p>&ensp;</p>
+
+* <b>University of Southern California</b> (2017)
+* M.S.  in Neuroimaging and Informatics
+
+<p>&ensp;</p>
+
+
+Internship Experiences
+======
+
+* Seagate (Bloomington, MN, USA)
+  * Data Analyst (January 2021 – August 2021 )
+  * Unsupervised time series anomaly detection
+  * Implement Pytorch model for defect detection on SEM images and deploy the segmentation model
+  * Create a convolution neural network to break the algorithm down into smaller computations and deploy the model on hard drives with CPU​
+
+
+
+<p>&ensp;</p>
+
+* Lehigh (Bethlehem, PA, USA)
+  * Image Processing  (June 2020 – August 2020)
+  * Atom dislocation detection in TEM images
+
+<p>&ensp;</p>
+
+* Seagate (Bloomington, MN, USA)
+  * Image Processing & Machine Learning  (May 2019 – August 2019)
+  * Developed a software to automatically measure the thickness of the head overcoat of TEM images
+  * Designed a machine learning classifier to predict the categories of HIT images
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
