@@ -6,6 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
+* May/18/2022. Our paper "Unsupervised Few Shot Key Frame Extraction For Cow Teat Videos" is accepted in MDPI Data.
 
 * Mar./28/2022. Our paper "Separable Confident Transductive Learning for Dairy Cows Teat-End Condition Classification" is accepted in MDPI Animals.
 
