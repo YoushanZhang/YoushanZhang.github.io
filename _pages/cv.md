@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<p>&ensp;</p>
+
 Professional experience
 ======
 * <b> Cornell University</b> (2021 -2022 )
