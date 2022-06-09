@@ -10,7 +10,7 @@ I am currently a Postdoc at Cornell University. Prior to that, I received my Ph.
 
 <p> &ensp;</p>
 
-**I am looking for high self-motivated students. Please send me your CV if you are interested in machine learning and computer vision.**
+**I am looking for high self-motivated Ph.D. students. Please send me your CV if you are interested in machine learning and computer vision (require: math background, starting from Fall 2022).**
 
 
 <p> &ensp;</p>
@@ -19,7 +19,7 @@ I am currently a Postdoc at Cornell University. Prior to that, I received my Ph.
 Contact:
 ======
 
-E-mail: yz945@cornell.edu
+E-mail: zys618@hotmail.com
 
 
 <p> &ensp;</p>
@@ -31,4 +31,4 @@ E-mail: yz945@cornell.edu
 ---
 This website is still under construction.
 
-Last updated: 05/12/2022
+Last updated: 06/09/2022
