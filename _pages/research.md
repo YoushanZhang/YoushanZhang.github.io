@@ -10,7 +10,7 @@ Transfer Learning
 
 
 <p align="center">
-  <img src="https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/_research/TL.png" width="80%">
+  <img src="./assets/TL.png" width="80%">
 </p>
 
 
