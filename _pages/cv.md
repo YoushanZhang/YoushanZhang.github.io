@@ -57,10 +57,11 @@ Internship Experiences
   * Developed a software to automatically measure the thickness of the head overcoat of TEM images
   * Designed a machine learning classifier to predict the categories of HIT images
   
-  
+<p>&ensp;</p>
+
 Service
 ======
-# Conferences
+### Conferences
 * European Conference on Computer Vision (ECCV)
 * IEEE International Conference on Image Processing (ICIP)
 * International Conference on Computer Vision (ICCV)
@@ -74,7 +75,7 @@ Service
 
 <p>&ensp;</p>
 
-# Journals
+### Journals
 * Imaging Systems and Technology
 * Computer Vision of Frontiers
 * Plant Science of Frontier 
