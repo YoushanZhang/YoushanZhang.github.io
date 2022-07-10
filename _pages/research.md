@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /research/
+title: "My research"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /research.html
 ---
 # Transfer learning
 
