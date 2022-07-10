@@ -58,4 +58,27 @@ Internship Experiences
   * Designed a machine learning classifier to predict the categories of HIT images
   
   
+Service
+======
+# Conferences
+* European Conference on Computer Vision (ECCV)
+* IEEE International Conference on Image Processing (ICIP)
+* International Conference on Computer Vision (ICCV)
+* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+* International Conference on Artificial Intelligence and Statistics (AISTATS)
+* British Machine Vision Conference (BMVC)
+* Medical Image Computing and Computer Assisted Intervention (MICCAI)
+* IEEE Winter Conference on Applications of Computer Vision (WACV)
+* International Conference on Decision Aid Sciences and Applications (DASA 20) 
+* EAI International Conference on Mobile Multimedia Communications (EAI MOBIMEDIA)
 
+<p>&ensp;</p>
+
+# Journals
+* Imaging Systems and Technology
+* Computer Vision of Frontiers
+* Plant Science of Frontier 
+* Multimedia Tools and Applications 
+* Peer-to-Peer Networking and Applications  
+* IEEE Transactions on Industrial Informatics 
+* Sakarya University Journal of Scienc
