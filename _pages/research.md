@@ -1,11 +1,8 @@
 ---
-permalink: /
-excerpt: "My research"
+title: ""My research"
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research/
 ---
-
 
 # Transfer learning
 
