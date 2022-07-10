@@ -14,7 +14,7 @@ Transfer Learning
 </p>
 
 
-![](/research../_research/TL.png)
+![](TL.png)
 
 <p align="left"> <b>Data shift/bias</b> of different datasets when transferring knowledge from an existing domain to another domain (learn from product domain, and recognize objects in clipart domain; segment cityscapes dataset and apply it to the real-world dataset; identify plant species from one set to another set).
 <b>Domain adaptation</b> aims to reduce data shift issue, and improve models' performance in the new domain. </p>
