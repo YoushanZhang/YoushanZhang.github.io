@@ -1,10 +1,9 @@
 ---
-permalink: /research/
-title: "My research"
+permalink: /
+excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /research.html
+  - /research/
 ---
 # Transfer learning
 
