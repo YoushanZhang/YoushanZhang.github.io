@@ -8,7 +8,7 @@ author_profile: true
 
 
 <p align="center">
-  <img src="https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/_research/TL.png" width="80%">
+  <img src="../_research/TL.png" width="80%">
 </p>
 
 <p align="left"> <b>Data shift/bias</b> of different datasets when transferring knowledge from an existing domain to another domain (learn from product domain, and recognize objects in clipart domain; segment cityscapes dataset and apply it to the real-world dataset; identify plant species from one set to another set).
