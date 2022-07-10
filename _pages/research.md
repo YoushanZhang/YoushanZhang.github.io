@@ -10,7 +10,7 @@ Transfer Learning
 
 
 <p align="center">
-  <img src="/research/assets/images/TL.png" width="80%">
+  <img src="./assets/TL.png" width="80%">
 </p>
 
 
