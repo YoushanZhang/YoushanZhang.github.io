@@ -8,23 +8,27 @@ main:
 
   - title: "CV"
     url: /cv/
+  
+  - title: "Research"
+    url: /research/
     
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "MLiRWA"
     url: /portfolio/
-        
+    
+  - title: "Teaching"
+    url: /teaching/    
+
+<! --
   - title: "Blog Posts"
     url: /year-archive/
-       
+
+  - title: "Talks"
+    url: /talks/ 
+    
   - title: "Guide"
     url: /markdown/
-    
+ -->  
   
