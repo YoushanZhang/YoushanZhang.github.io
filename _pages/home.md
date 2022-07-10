@@ -19,7 +19,7 @@ I will join Yeshiva University as an assistant professor in Artificial Intellige
 Contact:
 ======
 
-E-mail: zys618@hotmail.com
+E-mail: youshan.zhang@yu.edu
 
 
 <p> &ensp;</p>
