@@ -8,7 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-<p>&ensp;</p>
 
 Professional experience
 ======
