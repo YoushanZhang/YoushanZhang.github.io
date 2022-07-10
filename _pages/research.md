@@ -16,6 +16,11 @@ Transfer Learning
 <b>Domain adaptation</b> aims to reduce data shift issue, and improve models' performance in the new domain. </p>
 
 
+# Cow Teat Health Management
+<hr  size="5">
+
+
+
 
 
 # Manifold Learning and Shape Analysis
