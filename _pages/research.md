@@ -19,7 +19,7 @@ Transfer Learning
 ## Selected paper
 
 <p class="paragraph">
-  <img src="{{site.url}}/images/DLSA.png" width="30%" height = "20%" align="left">
+  <img src="{{site.url}}/images/DLSA.png" width="30%" height = "40%" align="left">
 </p>
                                                                                          
 Zhang, Y., & Davison, B. D. (2021). Deep Least Squares Alignment for Unsupervised Domain Adaptation. <em>British Machine Vision Conference (BMVC) 2021</em>. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Deep%20Least%20Squares%20Alignment%20for%20UDA.pdf)\] 
@@ -29,7 +29,7 @@ Zhang, Y., & Davison, B. D. (2021). Deep Least Squares Alignment for Unsupervise
 
 
 <p class="paragraph">
-  <img src="{{site.url}}/images/ESD.png"  width="30%" height = "20%" align="left"> 
+  <img src="{{site.url}}/images/ESD.png"  width="30%" height = "40%" align="left"> 
 </p>
                                                                                          
 Zhang, Y., & Davison, B. D. (2021, September). Enhanced separable disentanglement for unsupervised domain adaptation. In 2021 <em>IEEE International Conference on Image Processing (ICIP)</em> (pp. 784-788). IEEE. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/ENHANCED%20SEPARABLE%20DISENTANGLEMENT%20FOR%20UDA.pdf)\]
@@ -38,7 +38,7 @@ Zhang, Y., & Davison, B. D. (2021, September). Enhanced separable disentanglemen
 
 
 <p class="paragraph">
-  <img src="{{site.url}}/images/ARL.png"  width="30%" height = "20%" align="left"> 
+  <img src="{{site.url}}/images/ARL.png"  width="30%" height = "40%" align="left"> 
 </p>
                                                                                          
 Zhang, Y., & Davison, B. D. (2021, June). Adversarial regression learning for bone age estimation. In <em>International Conference on Information Processing in Medical Imaging</em> (pp. 742-754). Springer, Cham. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Adversarial_Regression_Learning_for_Bone_Age_Estimation_IPMI1.pdf)\]
@@ -46,7 +46,7 @@ Zhang, Y., & Davison, B. D. (2021, June). Adversarial regression learning for bo
 <hr  size="5">
 
 <p class="paragraph">
-  <img src="{{site.url}}/images/ARLUDA.png"  width="30%" height = "20%" align="left"> 
+  <img src="{{site.url}}/images/ARLUDA.png"  width="30%" height = "40%" align="left"> 
 </p>
                                                                                          
 Zhang, Y., Ye, H., & Davison, B. D. (2021). Adversarial reinforcement learning for unsupervised domain adaptation. In <em>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision</em> (pp. 635-644). \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Zhang_Adversarial_Reinforcement_Learning_for_Unsupervised_Domain_Adaptation_WACV_2021_paper.pdf)\]
@@ -72,6 +72,26 @@ Zhang, Y., Xie, S., & Davison, B. D. (2019, September). Transductive Learning Vi
   <img src="{{site.url}}/images/camera.png" width="50%">
 </p>
 <p align="center"> Data collection flow of our cow teat videos </p>
+
+
+<p class="paragraph">
+  <img src="{{site.url}}/images/SCTL.png"  width="30%" height = "10%" align="left"> 
+</p>
+                                                                                         
+Zhang, Y., Porter, I. R., Wieland, M., & Basran, P. S. (2022). Separable Confident Transductive Learning for Dairy Cows Teat-End Condition Classification. <em>Animals</em> 2022, 12, 886. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Separable%20Confident%20Transductive%20Learning%20for%20Dairy%20Cows.pdf)\]\[[code](https://github.com/YoushanZhang/SCTL)\]
+<br clear="left"/>
+<hr  size="5">
+
+
+
+<p class="paragraph">
+  <img src="{{site.url}}/images/FSLKFE.png"  width="30%" height = "10%" align="left"> 
+</p>
+                                                                                         
+Zhang, Y., Wieland, M., & Basran, P. S. (2022). Unsupervised Few Shot Key Frame Extraction for Cow Teat Videos. <em>Data</em>, 7(5), 68. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Unsupervised%20Few%20Shot%20Key%20Frame%20Extraction%20for%20Cow%20Teat%20Videos.pdf)\]\[[code](https://github.com/YoushanZhang/UFSKFE)\]
+<br clear="left"/>
+<hr  size="5">
+
 
 
 
