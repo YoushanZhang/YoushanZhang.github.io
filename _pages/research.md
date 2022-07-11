@@ -23,16 +23,17 @@ Transfer Learning
   <img src="{{site.url}}/images/DLSA.png" width="300" height = "200" align="left" img style="padding-right: 10px;">
 </p>
                                                                                          
-Zhang, Y., & Davison, B. D. (2021). Deep Least Squares Alignment for Unsupervised Domain Adaptation. <em>British Machine Vision Conference (BMVC) 2021</em>. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Deep%20Least%20Squares%20Alignment%20for%20UDA.pdf)\] 
+<p align="justify"> Zhang, Y., & Davison, B. D. (2021). Deep Least Squares Alignment for Unsupervised Domain Adaptation. <em>British Machine Vision Conference (BMVC) 2021</em>. <a href="https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Deep%20Least%20Squares%20Alignment%20for%20UDA.pdf">[paper]</a> </p> 
 <br clear="left"/>
 <hr  size="5">
+
 
 
 <p class="paragraph">
   <img src="{{site.url}}/images/ESD.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
 </p>
                                                                                          
-Zhang, Y., & Davison, B. D. (2021, September). Enhanced separable disentanglement for unsupervised domain adaptation. In 2021 <em>IEEE International Conference on Image Processing (ICIP)</em> (pp. 784-788). IEEE. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/ENHANCED%20SEPARABLE%20DISENTANGLEMENT%20FOR%20UDA.pdf)\]
+<p align="justify"> Zhang, Y., & Davison, B. D. (2021, September). Enhanced separable disentanglement for unsupervised domain adaptation. In 2021 <em>IEEE International Conference on Image Processing (ICIP)</em> (pp. 784-788). IEEE. <a href="https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/ENHANCED%20SEPARABLE%20DISENTANGLEMENT%20FOR%20UDA.pdf">[paper]</a> </p>
 <br clear="left"/>
 <hr  size="5">
 
@@ -41,7 +42,7 @@ Zhang, Y., & Davison, B. D. (2021, September). Enhanced separable disentanglemen
   <img src="{{site.url}}/images/ARL.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
 </p>
                                                                                          
-Zhang, Y., & Davison, B. D. (2021, June). Adversarial regression learning for bone age estimation. In <em>International Conference on Information Processing in Medical Imaging (IPMI) </em> (pp. 742-754). Springer, Cham. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Adversarial_Regression_Learning_for_Bone_Age_Estimation_IPMI1.pdf)\]
+<p align="justify"> Zhang, Y., & Davison, B. D. (2021, June). Adversarial regression learning for bone age estimation. In <em>International Conference on Information Processing in Medical Imaging (IPMI) </em> (pp. 742-754). Springer, Cham. <a href="https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Adversarial_Regression_Learning_for_Bone_Age_Estimation_IPMI1.pdf">[paper]</a> </p>
 <br clear="left"/>
 <hr  size="5">
 
@@ -49,7 +50,7 @@ Zhang, Y., & Davison, B. D. (2021, June). Adversarial regression learning for bo
   <img src="{{site.url}}/images/ARLUDA.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
 </p>
                                                                                          
-Zhang, Y., Ye, H., & Davison, B. D. (2021). Adversarial reinforcement learning for unsupervised domain adaptation. In <em>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) </em> (pp. 635-644). \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Zhang_Adversarial_Reinforcement_Learning_for_Unsupervised_Domain_Adaptation_WACV_2021_paper.pdf)\]
+<p align="justify"> Zhang, Y., Ye, H., & Davison, B. D. (2021). Adversarial reinforcement learning for unsupervised domain adaptation. In <em>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) </em> (pp. 635-644). <a href="https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Zhang_Adversarial_Reinforcement_Learning_for_Unsupervised_Domain_Adaptation_WACV_2021_paper.pdf">[paper]</a> </p>
 <br clear="left"/>
 <hr  size="5">
 
@@ -57,7 +58,7 @@ Zhang, Y., Ye, H., & Davison, B. D. (2021). Adversarial reinforcement learning f
   <img src="{{site.url}}/images/GSM.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
 </p>
                                                                                          
-Zhang, Y., Xie, S., & Davison, B. D. (2019, September). Transductive Learning Via Improved Geodesic Sampling. In <em> British Machine Vision Conference (BMVC) 2019 </em> (p. 122). \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Transductive%20Learning%20Via%20Improved.pdf)\]
+<p align="justify"> Zhang, Y., Xie, S., & Davison, B. D. (2019, September). Transductive Learning Via Improved Geodesic Sampling. In <em> British Machine Vision Conference (BMVC) 2019 </em> (p. 122). <a href="https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Transductive%20Learning%20Via%20Improved.pdf">[paper]</a> </p>
 <br clear="left"/>
 <hr  size="5">
 
@@ -78,22 +79,25 @@ Zhang, Y., Xie, S., & Davison, B. D. (2019, September). Transductive Learning Vi
 ## Selected paper
 
 <p class="paragraph">
-  <img src="{{site.url}}/images/SCTL.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
-</p>
-                                                                                         
-Zhang, Y., Porter, I. R., Wieland, M., & Basran, P. S. (2022). Separable Confident Transductive Learning for Dairy Cows Teat-End Condition Classification. <em>Animals</em> 2022, 12, 886. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Separable%20Confident%20Transductive%20Learning%20for%20Dairy%20Cows.pdf)\]\[[code](https://github.com/YoushanZhang/SCTL)\]
-<br clear="left"/>
-<hr  size="5">
-
-
-
-<p class="paragraph">
   <img src="{{site.url}}/images/FSLKFE.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
 </p>
                                                                                          
-Zhang, Y., Wieland, M., & Basran, P. S. (2022). Unsupervised Few Shot Key Frame Extraction for Cow Teat Videos. <em>Data</em>, 7(5), 68. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Unsupervised%20Few%20Shot%20Key%20Frame%20Extraction%20for%20Cow%20Teat%20Videos.pdf)\]\[[code](https://github.com/YoushanZhang/UFSKFE)\]
+<p align="justify"> Zhang, Y., Wieland, M., & Basran, P. S. (2022). Unsupervised Few Shot Key Frame Extraction for Cow Teat Videos. <em>Data</em>, 7(5), 68. <a href="https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Unsupervised%20Few%20Shot%20Key%20Frame%20Extraction%20for%20Cow%20Teat%20Videos.pdf">[paper]</a> <a href="https://github.com/YoushanZhang/UFSKFE">[code]</a> </p>
 <br clear="left"/>
 <hr  size="5">
+
+
+<p class="paragraph">
+  <img src="{{site.url}}/images/SCTL.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
+</p>
+                                                                                         
+<p align="justify"> Zhang, Y., Porter, I. R., Wieland, M., & Basran, P. S. (2022). Separable Confident Transductive Learning for Dairy Cows Teat-End Condition Classification. <em>Animals</em> 2022, 12, 886. <a href="https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Separable%20Confident%20Transductive%20Learning%20for%20Dairy%20Cows.pdf">[paper]</a> <a href="https://github.com/YoushanZhang/SCTL">[code]</a> </p>
+<br clear="left"/>
+<hr  size="5">
+
+
+
+
 
 
 
@@ -117,7 +121,7 @@ Zhang, Y., Wieland, M., & Basran, P. S. (2022). Unsupervised Few Shot Key Frame 
   <img src="{{site.url}}/images/BRGM.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
 </p>
                                                                                          
-Zhang, Y. (2020). Bayesian geodesic regression on Riemannian manifolds. <em> British Machine Vision Conference (BMVC) 2020 </em>. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Bayesian%20Geodesic%20Regression%20on.pdf)\]
+<p align="justify"> Zhang, Y. (2020). Bayesian geodesic regression on Riemannian manifolds. <em> British Machine Vision Conference (BMVC) 2020 </em>. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Bayesian%20Geodesic%20Regression%20on.pdf)\] </p>
 <br clear="left"/>
 <hr  size="5">
 
@@ -126,7 +130,7 @@ Zhang, Y. (2020). Bayesian geodesic regression on Riemannian manifolds. <em> Bri
   <img src="{{site.url}}/images/ShapeNet_4.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
 </p>
                                                                                          
-Zhang, Y., & Davison, B. D. (2019, September). Shapenet: Age-focused landmark shape prediction with regressive cnn. In <em>2019 International Conference on Content-Based Multimedia Indexing (CBMI)</em> (pp. 1-6). IEEE. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/ShapeNet__Age_focused_Landmark_Shape_Prediction_with_Regressive_CNN%20(1).pdf)\]
+<p align="justify"> Zhang, Y., & Davison, B. D. (2019, September). Shapenet: Age-focused landmark shape prediction with regressive cnn. In <em>2019 International Conference on Content-Based Multimedia Indexing (CBMI)</em> (pp. 1-6). IEEE. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/ShapeNet__Age_focused_Landmark_Shape_Prediction_with_Regressive_CNN%20(1).pdf)\] </p>
 <br clear="left"/>
 <hr  size="5">
 
@@ -135,7 +139,7 @@ Zhang, Y., & Davison, B. D. (2019, September). Shapenet: Age-focused landmark sh
   <img src="{{site.url}}/images/MPPGA.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
 </p>
                                                                                          
-Zhang, Y., Xing, J., & Zhang, M. (2019). Mixture probabilistic principal geodesic analysis. In <em>Multimodal Brain Image Analysis and Mathematical Foundations of Computational Anatomy </em> (pp. 196-208). Springer, Cham. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Mixture%20Probabilistic%20Principal%20Geodesic.pdf)\]
+<p align="justify"> Zhang, Y., Xing, J., & Zhang, M. (2019). Mixture probabilistic principal geodesic analysis. In <em>Multimodal Brain Image Analysis and Mathematical Foundations of Computational Anatomy </em> (pp. 196-208). Springer, Cham. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Mixture%20Probabilistic%20Principal%20Geodesic.pdf)\] </p>
 <br clear="left"/>
 <hr  size="5">
 
