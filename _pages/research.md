@@ -66,6 +66,7 @@ Zhang, Y., Xie, S., & Davison, B. D. (2019, September). Transductive Learning Vi
 # Cow Teat Health Management
 <hr  size="5">
 
+<b> Mastitis </b> remains one of dairy cows' most frequently occurring diseases, often arising from intramammary infections through the teat canal. It is also costly to pay for the treatment of mastitis disease in cows. Therefore, automatic <b> monitoring </b> and <b> assessing </b> the health status of cows' teats are beneficial that we could build an atlas of each cow's teat for a longitudinal study. 
 
 
 
