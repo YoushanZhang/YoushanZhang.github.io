@@ -36,9 +36,7 @@ Internship Experiences
 
 * Seagate (Bloomington, MN, USA)
   * Data Analyst (January 2021 – August 2021 )
-  * Unsupervised time series anomaly detection
-  * Implement Pytorch model for defect detection on SEM images and deploy the segmentation model
-  * Create a convolution neural network to break the algorithm down into smaller computations and deploy the model on hard drives with CPU​
+ 
 
 
 
@@ -46,14 +44,13 @@ Internship Experiences
 
 * Lehigh (Bethlehem, PA, USA)
   * Image Processing  (June 2020 – August 2020)
-  * Atom dislocation detection in TEM images
+
 
 <p>&ensp;</p>
 
 * Seagate (Bloomington, MN, USA)
   * Image Processing & Machine Learning  (May 2019 – August 2019)
-  * Developed a software to automatically measure the thickness of the head overcoat of TEM images
-  * Designed a machine learning classifier to predict the categories of HIT images
+
   
 <p>&ensp;</p>
 
