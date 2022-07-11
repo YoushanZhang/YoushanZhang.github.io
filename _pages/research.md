@@ -3,6 +3,7 @@ permalink: /research/
 title: "My Research"
 author_profile: true
 ---
+<p>&ensp;</p>
 
 Transfer Learning
 ======
@@ -40,7 +41,7 @@ Zhang, Y., & Davison, B. D. (2021, September). Enhanced separable disentanglemen
   <img src="{{site.url}}/images/ARL.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
 </p>
                                                                                          
-Zhang, Y., & Davison, B. D. (2021, June). Adversarial regression learning for bone age estimation. In <em>International Conference on Information Processing in Medical Imaging</em> (pp. 742-754). Springer, Cham. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Adversarial_Regression_Learning_for_Bone_Age_Estimation_IPMI1.pdf)\]
+Zhang, Y., & Davison, B. D. (2021, June). Adversarial regression learning for bone age estimation. In <em>International Conference on Information Processing in Medical Imaging (IPMI) </em> (pp. 742-754). Springer, Cham. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Adversarial_Regression_Learning_for_Bone_Age_Estimation_IPMI1.pdf)\]
 <br clear="left"/>
 <hr  size="5">
 
@@ -48,7 +49,7 @@ Zhang, Y., & Davison, B. D. (2021, June). Adversarial regression learning for bo
   <img src="{{site.url}}/images/ARLUDA.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
 </p>
                                                                                          
-Zhang, Y., Ye, H., & Davison, B. D. (2021). Adversarial reinforcement learning for unsupervised domain adaptation. In <em>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision</em> (pp. 635-644). \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Zhang_Adversarial_Reinforcement_Learning_for_Unsupervised_Domain_Adaptation_WACV_2021_paper.pdf)\]
+Zhang, Y., Ye, H., & Davison, B. D. (2021). Adversarial reinforcement learning for unsupervised domain adaptation. In <em>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) </em> (pp. 635-644). \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Zhang_Adversarial_Reinforcement_Learning_for_Unsupervised_Domain_Adaptation_WACV_2021_paper.pdf)\]
 <br clear="left"/>
 <hr  size="5">
 
@@ -56,11 +57,12 @@ Zhang, Y., Ye, H., & Davison, B. D. (2021). Adversarial reinforcement learning f
   <img src="{{site.url}}/images/GSM.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
 </p>
                                                                                          
-Zhang, Y., Xie, S., & Davison, B. D. (2019, September). Transductive Learning Via Improved Geodesic Sampling. In <em>BMVC</em> (p. 122). \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Transductive%20Learning%20Via%20Improved.pdf)\]
+Zhang, Y., Xie, S., & Davison, B. D. (2019, September). Transductive Learning Via Improved Geodesic Sampling. In <em> British Machine Vision Conference (BMVC) 2019 </em> (p. 122). \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Transductive%20Learning%20Via%20Improved.pdf)\]
 <br clear="left"/>
 <hr  size="5">
 
 
+<p>&ensp;</p>
 
 # Cow Teat Health Management
 <hr  size="5">
@@ -95,7 +97,7 @@ Zhang, Y., Wieland, M., & Basran, P. S. (2022). Unsupervised Few Shot Key Frame 
 
 
 
-
+<p>&ensp;</p>
 
 # Manifold Learning and Shape Analysis
 <hr  size="5">
@@ -112,10 +114,10 @@ Zhang, Y., Wieland, M., & Basran, P. S. (2022). Unsupervised Few Shot Key Frame 
 
 
 <p class="paragraph">
-  <img src="{{site.url}}/images/BGRM.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
+  <img src="{{site.url}}/images/BRGM.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
 </p>
                                                                                          
-Zhang, Y. (2020). Bayesian geodesic regression on Riemannian manifolds. <em>British Machine Vision Conference (BMVC) 2020</em>. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Bayesian%20Geodesic%20Regression%20on.pdf)\]
+Zhang, Y. (2020). Bayesian geodesic regression on Riemannian manifolds. <em> British Machine Vision Conference (BMVC) 2020 </em>. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Bayesian%20Geodesic%20Regression%20on.pdf)\]
 <br clear="left"/>
 <hr  size="5">
 
@@ -133,7 +135,7 @@ Zhang, Y., & Davison, B. D. (2019, September). Shapenet: Age-focused landmark sh
   <img src="{{site.url}}/images/MPPGA.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
 </p>
                                                                                          
-Zhang, Y., Xing, J., & Zhang, M. (2019). Mixture probabilistic principal geodesic analysis. In <em>Multimodal Brain Image Analysis and Mathematical Foundations of Computational Anatomy</em> (pp. 196-208). Springer, Cham. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Mixture%20Probabilistic%20Principal%20Geodesic.pdf)\]
+Zhang, Y., Xing, J., & Zhang, M. (2019). Mixture probabilistic principal geodesic analysis. In <em>Multimodal Brain Image Analysis and Mathematical Foundations of Computational Anatomy </em> (pp. 196-208). Springer, Cham. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Mixture%20Probabilistic%20Principal%20Geodesic.pdf)\]
 <br clear="left"/>
 <hr  size="5">
 
