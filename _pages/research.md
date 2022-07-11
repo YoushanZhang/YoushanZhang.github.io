@@ -19,7 +19,7 @@ Transfer Learning
 ## Selected paper
 
 <p class="paragraph">
-  <img src="TL.png"  width="30%" hight = "20%" align="left"> 
+  <img src="TL.png"  width="30%" height = "20%" align="left"> 
 </p>
                                                                                          
 Zhang, Y., & Davison, B. D. (2021). Deep Least Squares Alignment for Unsupervised Domain Adaptation. <em>British Machine Vision Conference (BMVC) 2021</em>. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Deep%20Least%20Squares%20Alignment%20for%20UDA.pdf)\] 
@@ -29,7 +29,7 @@ Zhang, Y., & Davison, B. D. (2021). Deep Least Squares Alignment for Unsupervise
 
 
 <p class="paragraph">
-  <img src="./assets/ESD.png"  width="30%" hight = "20%" align="left"> 
+  <img src="./assets/ESD.png"  width="30%" height = "20%" align="left"> 
 </p>
                                                                                          
 Zhang, Y., & Davison, B. D. (2021, September). Enhanced separable disentanglement for unsupervised domain adaptation. In 2021 <em>IEEE International Conference on Image Processing (ICIP)</em> (pp. 784-788). IEEE. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/ENHANCED%20SEPARABLE%20DISENTANGLEMENT%20FOR%20UDA.pdf)\]
@@ -38,7 +38,7 @@ Zhang, Y., & Davison, B. D. (2021, September). Enhanced separable disentanglemen
 
 
 <p class="paragraph">
-  <img src="./assets/ARL.png"  width="30%" hight = "20%" align="left"> 
+  <img src="./assets/ARL.png"  width="30%" height = "20%" align="left"> 
 </p>
                                                                                          
 Zhang, Y., & Davison, B. D. (2021, June). Adversarial regression learning for bone age estimation. In <em>International Conference on Information Processing in Medical Imaging</em> (pp. 742-754). Springer, Cham. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Adversarial_Regression_Learning_for_Bone_Age_Estimation_IPMI1.pdf)\]
@@ -46,7 +46,7 @@ Zhang, Y., & Davison, B. D. (2021, June). Adversarial regression learning for bo
 <hr  size="5">
 
 <p class="paragraph">
-  <img src="./assets/ARLUDA.png"  width="30%" hight = "20%" align="left"> 
+  <img src="./assets/ARLUDA.png"  width="30%" height = "20%" align="left"> 
 </p>
                                                                                          
 Zhang, Y., Ye, H., & Davison, B. D. (2021). Adversarial reinforcement learning for unsupervised domain adaptation. In <em>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision</em> (pp. 635-644). \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Zhang_Adversarial_Reinforcement_Learning_for_Unsupervised_Domain_Adaptation_WACV_2021_paper.pdf)\]
@@ -54,7 +54,7 @@ Zhang, Y., Ye, H., & Davison, B. D. (2021). Adversarial reinforcement learning f
 <hr  size="5">
 
 <p class="paragraph">
-  <img src="./assets/GSM.png"  width="30%" hight = "10%" align="left"> 
+  <img src="./assets/GSM.png"  width="30%" height = "10%" align="left"> 
 </p>
                                                                                          
 Zhang, Y., Xie, S., & Davison, B. D. (2019, September). Transductive Learning Via Improved Geodesic Sampling. In <em>BMVC</em> (p. 122). \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Transductive%20Learning%20Via%20Improved.pdf)\]
@@ -67,6 +67,9 @@ Zhang, Y., Xie, S., & Davison, B. D. (2019, September). Transductive Learning Vi
 <hr  size="5">
 
 <b> Mastitis </b> remains one of dairy cows' most frequently occurring diseases, often arising from intramammary infections through the teat canal. It is also costly to pay for the treatment of mastitis disease in cows. Therefore, automatic <b> monitoring </b> and <b> assessing </b> the health status of cows' teats are beneficial that we could build an atlas of each cow's teat for a longitudinal study. 
+
+![](./assets/camera.png)
+<p align="center"> Data collection flow of our cow teat videos </p>
 
 
 
