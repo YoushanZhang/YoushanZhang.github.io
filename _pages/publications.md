@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 More articles are available at my [Google Scholar](https://scholar.google.com/citations?user=47ItLM8AAAAJ&hl=en).
-
-<p align="justify">
   
 1. Li, J,, Guo L., Zhang, Y. (2022). SCORN: Sinter Composition Optimization with Regressive Convolutional Neural Network. <em>Solids</em>. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Unsupervised%20Few%20Shot%20Key%20Frame%20Extractionpdf)\]\[[code](https://github.com/YoushanZhang/SCORN)\]
 2. Zhang, Y., Wieland, M., & Basran, P. S. (2022). Unsupervised Few Shot Key Frame Extraction for Cow Teat Videos. <em>Data</em>, 7(5), 68. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Unsupervised%20Few%20Shot%20Key%20Frame%20Extraction%20for%20Cow%20Teat%20Videos.pdf)\]\[[code](https://github.com/YoushanZhang/UFSKFE)\]
@@ -46,7 +44,6 @@ More articles are available at my [Google Scholar](https://scholar.google.com/ci
 36. Zhang, Y., Guo, L., Li, Q., & Li, J. (2016, December). Electricity consumption forecasting method based on MPSO-BP neural network model. In <em>2016 4th International Conference on Electrical & Electronics Engineering and Computer Science (ICEEECS 2016)</em> (pp. 674-678). Atlantis Press. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/ElectricityconsumptionforecastingmethodbasedonMPSO-BPneuralnetworkmodel.pdf)\]
 37. Guo, L. D., Nie, J., & Zhang, Y. S. (2014). Robust exponential stability of stochastic discrete-time BAM neural networks with Markovian jumping parameters and delays. In Advanced Materials Research (Vol. 989, pp. 1877-1882). <em>Trans Tech Publications Ltd</em>. 
 
-</p>
 
 
 
