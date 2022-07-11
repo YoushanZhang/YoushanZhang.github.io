@@ -19,7 +19,7 @@ Transfer Learning
 ## Selected paper
 
 <p class="paragraph">
-  <img src="{{site.url}}/images/DLSA.png" width="30%" height = "40%" align="left">
+  <img src="{{site.url}}/images/DLSA.png" width="30%" height = "40%" align="left" img style="padding-right: 50px;">
 </p>
                                                                                          
 Zhang, Y., & Davison, B. D. (2021). Deep Least Squares Alignment for Unsupervised Domain Adaptation. <em>British Machine Vision Conference (BMVC) 2021</em>. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Deep%20Least%20Squares%20Alignment%20for%20UDA.pdf)\] 
@@ -29,7 +29,7 @@ Zhang, Y., & Davison, B. D. (2021). Deep Least Squares Alignment for Unsupervise
 
 
 <p class="paragraph">
-  <img src="{{site.url}}/images/ESD.png"  width="30%" height = "40%" align="left"> 
+  <img src="{{site.url}}/images/ESD.png"  width="30%" height = "40%" align="left" img style="padding-right: 50px;"> 
 </p>
                                                                                          
 Zhang, Y., & Davison, B. D. (2021, September). Enhanced separable disentanglement for unsupervised domain adaptation. In 2021 <em>IEEE International Conference on Image Processing (ICIP)</em> (pp. 784-788). IEEE. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/ENHANCED%20SEPARABLE%20DISENTANGLEMENT%20FOR%20UDA.pdf)\]
