@@ -7,14 +7,14 @@ author_profile: true
 
 Transfer Learning
 ======
-<b>Transfer learning</b> leverages existing models or labeled data to solve another similar but different problem. My research focuses on one type of transfer learning paradigms: domain adaptation. Due to the differences between different domains, termed data bias or domain shift, machine learning models often do not generalize well from an existing domain to a novel unlabeled domain. <b>Domain adaptation (DA)</b> has been proposed to leverage knowledge from an abundant labeled source domain to learn an effective predictor for the target domain with few or no labels, while mitigating the domain shift problem. In my research, DA has been applied in many tasks, such as image recognition, segmentation, regression, etc.
+<p align="justify"> <b>Transfer learning</b> leverages existing models or labeled data to solve another similar but different problem. My research focuses on one type of transfer learning paradigms: domain adaptation. Due to the differences between different domains, termed data bias or domain shift, machine learning models often do not generalize well from an existing domain to a novel unlabeled domain. <b>Domain adaptation (DA)</b> has been proposed to leverage knowledge from an abundant labeled source domain to learn an effective predictor for the target domain with few or no labels, while mitigating the domain shift problem. In my research, DA has been applied in many tasks, such as image recognition, segmentation, regression, etc. </p>
 
 
 
 
 ![](./assets/TL.png)
 
-<p align="left"> <b>Data shift/bias</b> of different datasets when transferring knowledge from an existing domain to another domain (learn from product domain, and recognize objects in clipart domain; segment cityscapes dataset and apply it to the real-world dataset; identify plant species from one set to another set).
+<p align="justify"> <b>Data shift/bias</b> of different datasets when transferring knowledge from an existing domain to another domain (learn from product domain, and recognize objects in clipart domain; segment cityscapes dataset and apply it to the real-world dataset; identify plant species from one set to another set).
 <b>Domain adaptation</b> aims to reduce data shift issue, and improve models' performance in the new domain. </p>
 
 ## Selected paper
@@ -67,7 +67,7 @@ Zhang, Y., Xie, S., & Davison, B. D. (2019, September). Transductive Learning Vi
 # Cow Teat Health Management
 <hr  size="5">
 
-<b> Mastitis </b> remains one of dairy cows' most frequently occurring diseases, often arising from intramammary infections through the teat canal. It is also costly to pay for the treatment of mastitis disease in cows. Therefore, automatic <b> monitoring </b> and <b> assessing </b> the health status of cows' teats are beneficial that we could build an atlas of each cow's teat for a longitudinal study. 
+<p align="justify"> <b> Mastitis </b> remains one of dairy cows' most frequently occurring diseases, often arising from intramammary infections through the teat canal. It is also costly to pay for the treatment of mastitis disease in cows. Therefore, automatic <b> monitoring </b> and <b> assessing </b> the health status of cows' teats are beneficial that we could build an atlas of each cow's teat for a longitudinal study. </p>
 
 <p align="center">
   <img src="{{site.url}}/images/camera.png" width="50%">
@@ -102,7 +102,7 @@ Zhang, Y., Wieland, M., & Basran, P. S. (2022). Unsupervised Few Shot Key Frame 
 # Manifold Learning and Shape Analysis
 <hr  size="5">
 
-<b> Manifold Learning (ML) </b> is an application of differential geometry to machine learning. Data points lying on low-dimensional nonlinear manifolds are expected to be highly conforming. <b> ML </b> techniques initially aim to identify the underlying low-dimensional of data from a set of high-dimensional observations. <b> ML </b> has been widely used in data dimensionality reduction, shape analysis, face recognition, activity recognition, object detection and classification, and generative adversarial networks, etc.
+<p align="justify"> <b> Manifold Learning (ML) </b> is an application of differential geometry to machine learning. Data points lying on low-dimensional nonlinear manifolds are expected to be highly conforming. <b> ML </b> techniques initially aim to identify the underlying low-dimensional of data from a set of high-dimensional observations. <b> ML </b> has been widely used in data dimensionality reduction, shape analysis, face recognition, activity recognition, object detection and classification, and generative adversarial networks, etc. </p>
 
 <p align="center">
   <img src="{{site.url}}/images/mani.png" width="60%">
