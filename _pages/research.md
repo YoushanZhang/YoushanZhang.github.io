@@ -73,6 +73,8 @@ Zhang, Y., Xie, S., & Davison, B. D. (2019, September). Transductive Learning Vi
 <p align="center"> Data collection flow of our cow teat videos </p>
 
 
+## Selected paper
+
 <p class="paragraph">
   <img src="{{site.url}}/images/SCTL.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
 </p>
@@ -104,6 +106,9 @@ Zhang, Y., Wieland, M., & Basran, P. S. (2022). Unsupervised Few Shot Key Frame 
   <img src="{{site.url}}/images/mani.png" width="100%">
 </p>
 <p align="center"> Basic concepts of geometry on manifold </p>
+
+
+## Selected paper
 
 
 <p class="paragraph">
