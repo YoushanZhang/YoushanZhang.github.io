@@ -19,7 +19,7 @@ Transfer Learning
 ## Selected paper
 
 <p class="paragraph">
-  <img src="{{ "TL.png" | prepend: site.baseurl}}" alt="Untitled" />
+  <img src="images/My_self.jpeg" alt="Untitled" />
 </p>
                                                                                          
 Zhang, Y., & Davison, B. D. (2021). Deep Least Squares Alignment for Unsupervised Domain Adaptation. <em>British Machine Vision Conference (BMVC) 2021</em>. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Deep%20Least%20Squares%20Alignment%20for%20UDA.pdf)\] 
