@@ -6,23 +6,23 @@ author_profile: true
 
 {% include base_path %}
 
-* July/08/2022. Our paper "SCORN: Sinter Composition Optimization with Regressive Convolutional Neural Network" is accepted in MDPI Solids.
+* <p align="justify"> July/08/2022. Our paper "SCORN: Sinter Composition Optimization with Regressive Convolutional Neural Network" is accepted in MDPI Solids.  </p>
 
-* May/18/2022. Our paper "Unsupervised Few Shot Key Frame Extraction For Cow Teat Videos" is accepted in MDPI Data.
+* <p align="justify"> May/18/2022. Our paper "Unsupervised Few Shot Key Frame Extraction For Cow Teat Videos" is accepted in MDPI Data. </p>
 
-* Mar./28/2022. Our paper "Separable Confident Transductive Learning for Dairy Cows Teat-End Condition Classification" is accepted in MDPI Animals.
+* <p align="justify"> Mar./28/2022. Our paper "Separable Confident Transductive Learning for Dairy Cows Teat-End Condition Classification" is accepted in MDPI Animals. </p>
 
-* Feb./08/2022. Our paper "Artificial intelligence 101 for veterinary diagnostic imaging" is accepted in Veterinary Radiology & Ultrasound.
+* <p align="justify"> Feb./08/2022. Our paper "Artificial intelligence 101 for veterinary diagnostic imaging" is accepted in Veterinary Radiology & Ultrasound. </p>
 
-* Jan./05/2022. Our paper "Delta thermal radiomics: an application in dairy cow teats" is accepted in JDS Communications.
+* <p align="justify"> Jan./05/2022. Our paper "Delta thermal radiomics: an application in dairy cow teats" is accepted in JDS Communications. </p>
 
-* Dec./17/2021- Dec./18/2021. We virtually host "First Cornell Veterinary AI Workshop".
+* <p align="justify"> Dec./17/2021- Dec./18/2021. We virtually host "First Cornell Veterinary AI Workshop". </p>
 
-* Oct./15/2021. Our paper "Deep Least Squares Alignment for Unsupervised Domain Adaptation" is accepted in BMVC 2021.
+* <p align="justify"> Oct./15/2021. Our paper "Deep Least Squares Alignment for Unsupervised Domain Adaptation" is accepted in BMVC 2021. </p>
 
-* Sep./01/2021. I worked at Cornell University as a Postdoc.
+* <p align="justify"> Sep./01/2021. I worked at Cornell University as a Postdoc. </p>
 
-* Aug./05/2021. I successfully defended my Ph.D. dissertation "Unsupervised Domain Adaptation for Visual Recognition".
+* <p align="justify"> Aug./05/2021. I successfully defended my Ph.D. dissertation "Unsupervised Domain Adaptation for Visual Recognition". </p>
 
 
 
