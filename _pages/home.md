@@ -10,7 +10,7 @@ redirect_from:
 
 <p> &ensp;</p>
 
-<p align="justify"> <b> I am looking for high self-motivated Ph.D. students. Please send me your CV if you are interested in machine learning and computer vision (require: math background). </b> </p>
+<p align="justify"> <b> I am looking for high self-motivated Ph.D. students. Please send me your CV if you are interested in machine learning and computer vision (requirement: math background). </b> </p>
 
 
 <p> &ensp;</p>
