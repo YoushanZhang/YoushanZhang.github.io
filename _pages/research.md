@@ -130,7 +130,7 @@ Transfer Learning
   <img src="{{site.url}}/images/ShapeNet_4.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
 </p>
                                                                                          
-<p align="justify"> Zhang, Y., & Davison, B. D. (2019, September). Shapenet: Age-focused landmark shape prediction with regressive cnn. In <em>2019 International Conference on Content-Based Multimedia Indexing (CBMI)</em> (pp. 1-6). IEEE. <a href="https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/ShapeNet__Age_focused_Landmark_Shape_Prediction_with_Regressive_CNN%20(1).pdf">[paper]</a </p>
+<p align="justify"> Zhang, Y., & Davison, B. D. (2019, September). Shapenet: Age-focused landmark shape prediction with regressive cnn. In <em>2019 International Conference on Content-Based Multimedia Indexing (CBMI)</em> (pp. 1-6). IEEE. <a href="https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/ShapeNet__Age_focused_Landmark_Shape_Prediction_with_Regressive_CNN%20(1).pdf">[paper]</a> </p>
 <br clear="left"/>
 <hr  size="5">
 
@@ -139,7 +139,7 @@ Transfer Learning
   <img src="{{site.url}}/images/MPPGA.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
 </p>
                                                                                          
-<p align="justify"> Zhang, Y., Xing, J., & Zhang, M. (2019). Mixture probabilistic principal geodesic analysis. In <em>Multimodal Brain Image Analysis and Mathematical Foundations of Computational Anatomy </em> (pp. 196-208). Springer, Cham. <a href="https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Mixture%20Probabilistic%20Principal%20Geodesic.pdf">[paper]</a
+<p align="justify"> Zhang, Y., Xing, J., & Zhang, M. (2019). Mixture probabilistic principal geodesic analysis. In <em>Multimodal Brain Image Analysis and Mathematical Foundations of Computational Anatomy </em> (pp. 196-208). Springer, Cham. <a href="https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Mixture%20Probabilistic%20Principal%20Geodesic.pdf">[paper]</a> </p>
 <br clear="left"/>
 <hr  size="5">
 
