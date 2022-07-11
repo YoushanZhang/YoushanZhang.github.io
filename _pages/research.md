@@ -100,5 +100,36 @@ Zhang, Y., Wieland, M., & Basran, P. S. (2022). Unsupervised Few Shot Key Frame 
 
 <b> Manifold Learning (ML) </b> is an application of differential geometry to machine learning. Data points lying on low-dimensional nonlinear manifolds are expected to be highly conforming. <b> ML </b> techniques initially aim to identify the underlying low-dimensional of data from a set of high-dimensional observations. <b> ML </b> has been widely used in data dimensionality reduction, shape analysis, face recognition, activity recognition, object detection and classification, and generative adversarial networks, etc.
 
+<p align="center">
+  <img src="{{site.url}}/images/mani.png" width="100%">
+</p>
+<p align="center"> Basic concepts of geometry on manifold </p>
+
+
+<p class="paragraph">
+  <img src="{{site.url}}/images/BGRM.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
+</p>
+                                                                                         
+Zhang, Y. (2020). Bayesian geodesic regression on Riemannian manifolds. <em>British Machine Vision Conference (BMVC) 2020</em>. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Bayesian%20Geodesic%20Regression%20on.pdf)\]
+<br clear="left"/>
+<hr  size="5">
+
+
+<p class="paragraph">
+  <img src="{{site.url}}/images/ShapeNet_4.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
+</p>
+                                                                                         
+Zhang, Y., & Davison, B. D. (2019, September). Shapenet: Age-focused landmark shape prediction with regressive cnn. In <em>2019 International Conference on Content-Based Multimedia Indexing (CBMI)</em> (pp. 1-6). IEEE. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/ShapeNet__Age_focused_Landmark_Shape_Prediction_with_Regressive_CNN%20(1).pdf)\]
+<br clear="left"/>
+<hr  size="5">
+
+
+<p class="paragraph">
+  <img src="{{site.url}}/images/MPPGA.png"  width="300" height = "200" align="left" img style="padding-right: 10px;"> 
+</p>
+                                                                                         
+Zhang, Y., Xing, J., & Zhang, M. (2019). Mixture probabilistic principal geodesic analysis. In <em>Multimodal Brain Image Analysis and Mathematical Foundations of Computational Anatomy</em> (pp. 196-208). Springer, Cham. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Mixture%20Probabilistic%20Principal%20Geodesic.pdf)\]
+<br clear="left"/>
+<hr  size="5">
 
 
