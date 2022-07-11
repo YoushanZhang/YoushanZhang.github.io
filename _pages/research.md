@@ -98,3 +98,8 @@ Zhang, Y., Wieland, M., & Basran, P. S. (2022). Unsupervised Few Shot Key Frame 
 
 # Manifold Learning and Shape Analysis
 <hr  size="5">
+
+<b> Manifold Learning (ML) </b> is an application of differential geometry to machine learning. Data points lying on low-dimensional nonlinear manifolds are expected to be highly conforming. <b> ML </b> techniques initially aim to identify the underlying low-dimensional of data from a set of high-dimensional observations. <b> ML </b> has been widely used in data dimensionality reduction, shape analysis, face recognition, activity recognition, object detection and classification, and generative adversarial networks, etc.
+
+
+
