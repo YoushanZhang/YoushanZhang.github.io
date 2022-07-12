@@ -6,7 +6,7 @@ author_profile: true
 ---
 More articles are available at my [Google Scholar](https://scholar.google.com/citations?user=47ItLM8AAAAJ&hl=en).
   
-1. Li, J,, Guo L., Zhang, Y. (2022). SCORN: Sinter Composition Optimization with Regressive Convolutional Neural Network. <em>Solids</em>. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Unsupervised%20Few%20Shot%20Key%20Frame%20Extractionpdf)\]\[[code](https://github.com/YoushanZhang/SCORN)\]
+1. Li, J,, Guo L., Zhang, Y. (2022). SCORN: Sinter Composition Optimization with Regressive Convolutional Neural Network. <em>Solids</em>. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/solids-03-00029.pdf)\]\[[code](https://github.com/YoushanZhang/SCORN)\]
 2. Zhang, Y., Wieland, M., & Basran, P. S. (2022). Unsupervised Few Shot Key Frame Extraction for Cow Teat Videos. <em>Data</em>, 7(5), 68. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Unsupervised%20Few%20Shot%20Key%20Frame%20Extraction%20for%20Cow%20Teat%20Videos.pdf)\]\[[code](https://github.com/YoushanZhang/UFSKFE)\]
 3. Zhang, Y., Porter, I. R., Wieland, M., & Basran, P. S. (2022). Separable Confident Transductive Learning for Dairy Cows Teat-End Condition Classification. <em>Animals</em> 2022, 12, 886. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Separable%20Confident%20Transductive%20Learning%20for%20Dairy%20Cows.pdf)\]\[[code](https://github.com/YoushanZhang/SCTL)\]
 4. Adrien-Maxence H., Zhang Y., Basran, P. S. (2022). Artificial Intelligence 101 for Veterinary Diagnostic Imaging. <em>Veterinary Radiology & Ultrasound</em>
