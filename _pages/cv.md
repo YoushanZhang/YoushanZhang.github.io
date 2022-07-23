@@ -26,7 +26,7 @@ Education
 <p>&ensp;</p>
 
 * <b>University of Southern California</b> (2017)
-* M.S.  in Neuroimaging and Informatics
+
 
 <p>&ensp;</p>
 
