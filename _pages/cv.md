@@ -20,13 +20,13 @@ Professional experience
 Education
 ======
 * <b>Lehigh University</b> (2021)
-* Ph.D. in Computer Science
+* Ph.D. 
 
 
 <p>&ensp;</p>
 
 * <b>University of Southern California</b> (2017)
-
+* M.S.
 
 <p>&ensp;</p>
 
