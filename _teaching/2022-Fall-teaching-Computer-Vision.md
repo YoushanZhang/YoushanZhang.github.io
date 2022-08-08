@@ -4,12 +4,12 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-Fall-teaching-Computer-Vision
 venue: "Yeshiva University, MS in Artificial Intelligence"
-date: 2022-08-29
+
 location: "NY, USA"
 ---
 
 2022 Fall
-
+<!-- date: 2022-08-29 -->
 ### COURSE OVERVIEW 
 
 
