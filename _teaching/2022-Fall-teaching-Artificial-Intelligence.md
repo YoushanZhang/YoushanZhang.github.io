@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 2"
+title: "AIM 5000 - Artificial Intelligence"
 collection: teaching
-type: "Workshop"
+type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Yeshiva University, Artificial Intelligence	"
 date: 2022-08-29
