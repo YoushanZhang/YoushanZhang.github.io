@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "AIM 5014: Special Topics - Computer Vision"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-Fall-teaching-computer-vision
