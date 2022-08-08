@@ -2,7 +2,7 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2022-Fall-teaching-computer vision
+permalink: /teaching/2022-Fall-teaching-computer-vision
 venue: "Yeshiva University, Artificial Intelligence"
 date: 2022-09-29
 location: "NY, USA"
