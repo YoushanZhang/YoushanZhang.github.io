@@ -22,7 +22,9 @@ The autonomous single, multiple, and adversarial agents that students build in t
 By the end of this course, students will be able to:
 
 ●	Design and analyze autonomous agents that perceive and interact rationally with their environments.
+
 ●	Describe, compare, and contrast the different knowledge representations, problem solving mechanisms, and learning techniques used in AI.
+
 ● Device and implement AI-based solutions to appropriate problems.
 
 
@@ -74,6 +76,9 @@ Additional readings (either web-based or provided by the instructor) will be ass
     <th>Range % </th>
     <th>GPA/ Quality Pts.</th>
   </tr>
+<tr style="background: #aaa;">
+ <td colspan="3"></td>
+</tr> 
   <tr>
     <td rowspan="2">Excellent - work is of exceptional quality</td>
     <td>A</td>
