@@ -1,5 +1,5 @@
 ---
-title: "AIM 5014: Special Topics - Computer Vision"
+title: "AIM 5014: Computer Vision"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-Fall-teaching-Computer-Vision
@@ -76,7 +76,9 @@ Additional readings (either web-based or provided by the instructor) will be ass
     <th>Range % </th>
     <th>GPA/ Quality Pts.</th>
   </tr>
-
+  <tr style="background: #aaa;">
+    <td colspan="4"></td>
+  </tr>
   <tr>
     <td rowspan="2">Excellent - work is of exceptional quality</td>
     <td>A</td>
