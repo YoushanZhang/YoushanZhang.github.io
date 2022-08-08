@@ -3,7 +3,7 @@ title: "AIM 5014: Special Topics - Computer Vision"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-Fall-teaching-Computer-Vision
-venue: "Yeshiva University, Artificial Intelligence"
+venue: "Yeshiva University, MS in Artificial Intelligence"
 date: 2022-08-29
 location: "NY, USA"
 ---
@@ -60,14 +60,14 @@ Additional readings (either web-based or provided by the instructor) will be ass
 <!-- 
 | Quality of Performance| Letter Grade | Range % | GPA/ Quality Pts. |
 |:--------|:-------:|--------:|--------:|
-|/3. spans 3 rows | A   | 93 - 100   | 4       |
+|/3. spans 3 rows | A   | 93 - 100   | 4.0       |
 | ^^| A-  | 90 - 92.9  | 3.7     |
 | cell1   | B+  | 87 - 89.9  | 3.3     |
-| cell4   | B   | 83 - 86.9  | 3       |
+| cell4   | B   | 83 - 86.9  | 3.0       |
 | Foot1   | B-  | 80 - 82.9  | 2.7     |
 | cell1   | C+  | 77 - 79.9  | 2.3     |
-| cell4   | C   | 70 - 76.9  | 2       |
-| Foot1   | F   | < 70       | 0       | -->
+| cell4   | C   | 70 - 76.9  | 2.0       |
+| Foot1   | F   | < 70       | 0.0       | -->
 
 <table class="center">
   <tr>
