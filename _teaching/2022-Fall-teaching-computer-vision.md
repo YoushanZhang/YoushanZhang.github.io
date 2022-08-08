@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-Fall-teaching-Computer-Vision
 venue: "Yeshiva University, Artificial Intelligence"
-date: 2022-09-29
+date: 2022-08-29
 location: "NY, USA"
 ---
 
@@ -19,13 +19,13 @@ Image analysis and computer vision are important to enable machines (computers) 
 
 By the end of this course, students will be able to:
 
-•	Understand the major concepts in image analysis and computer vision 
+●	Understand the major concepts in image analysis and computer vision 
 
-•	Know a range of computer vision techniques and where to apply them
+●	Know a range of computer vision techniques and where to apply them
 
-•	Understand state-of-the-art of deep learning architectures
+●	Understand state-of-the-art of deep learning architectures
 
-•	Obtain practical experience in implementing real-world projects and build their own models for effective problem solving
+●	Obtain practical experience in implementing real-world projects and build their own models for effective problem solving
 
 
 
