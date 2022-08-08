@@ -47,6 +47,12 @@ Additional readings (either web-based or provided by the instructor) will be ass
 ASSIGNMENTS & GRADING
 ======
 
+| Assignments           |                           Grading                                   |
+| --------         |------------------------------------------------------------ |
+| <h1> Discussions / Response Assignments: </h1> Discussions will focus primarily on use cases, papers, podcasts, and presentations related to computer vision. | 10%|
+| <h1> Projects (3): </h1> Students will work individually and in teams on code-based “mini-projects” related to the current material. At the end of the course, each student will have a portfolio of relevant projects ready to show an employer. |45%                        |
+| <h1> Final Project Proposal, Project, Paperwork, and Presentation: </h1> Working individually or as part of a small team, students will build an artificial intelligence project that compares approaches to address a challenging and worthwhile problem of their choosing.  Project evaluation criteria will include evaluation of (1) the statement of a compelling hypothesis or guiding question, (2) relevant choice of data sets(s), (3) comparative evaluation of different models, parameters, and hyper-parameters (4) findings and recommendations, and (5) a code notebook that is well-organized, clearly written, consistent with best practices, and reproducible. Students will present their final projects to their peers for feedback before submitting their final project write-up.  The final presentation should be delivered within specified time parameters and include the appropriate level of detail for its intended audience. The final paperwork is targeted for publication purposes. |45% |
+
 
 
 GRADING SCALE
