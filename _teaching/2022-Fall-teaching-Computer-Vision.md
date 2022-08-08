@@ -76,12 +76,7 @@ Additional readings (either web-based or provided by the instructor) will be ass
     <th>Range % </th>
     <th>GPA/ Quality Pts.</th>
   </tr>
-  <tr>
-    <td><hr> </td> 
-    <td><hr> </td>
-    <td><hr> </td>
-    <td><hr> </td>
-  </tr>  
+
   <tr>
     <td rowspan="2">Excellent - work is of exceptional quality</td>
     <td>A</td>
