@@ -77,7 +77,7 @@ Additional readings (either web-based or provided by the instructor) will be ass
     <th>GPA/ Quality Pts.</th>
   </tr>
 <tr style="background: #aaa;">
- <td colspan="3"></td>
+ <td colspan="4"></td>
 </tr> 
   <tr>
     <td rowspan="2">Excellent - work is of exceptional quality</td>
