@@ -4,6 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-Fall-teaching-Artificial-Intelligence
 venue: "Yeshiva University, MS in Artificial Intelligence	"
+date: 2022-08-29
 location: "NY, USA"
 ---
 Fall 2022
