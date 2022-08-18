@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Youshan Zhang"
 title_separator          : "-"
 name                     : &name "Youshan Zhang"
-description              : &description "PostDoc at Cornell University"
+description              : &description "Assistant Professor at Yeshiva University"
 url                      : https://YoushanZhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YoushanZhang.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Youshan Zhang"
   avatar           : "My_self.jpeg"
-  bio              : "PostDoc at Cornell University, Ph.D. in Computer Science at Lehigh University"
-  location         : "Ithaca, NY"
+  bio              : "Assistant Professor at Yeshiva University"
+  location         : "NYC, NY"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=47ItLM8AAAAJ&hl=en"
