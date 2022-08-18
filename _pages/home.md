@@ -6,7 +6,7 @@ redirect_from:
   - /home/
 ---
 
-<p align="justify"> I will join Yeshiva University as an assistant professor in Artificial Intelligence Department from Fall 2022. I am currently a Postdoc at Cornell University. Prior to that, I received my Ph.D. degree in Computer Science at Lehigh University. My research interests lie in the area of artificial intelligence, machine learning, computer vision, transfer learning, manifold learning, and shape analysis. I am also excited about interdisciplinary research, collaborating, and working with researchers from related fields. </p>
+<p align="justify"> I am an assistant professor in the Computer Science and Artificial Intelligence at Yeshiva University. I was a Postdoc at Cornell University and received my Ph.D. degree in Computer Science at Lehigh University. My research interests lie in the area of artificial intelligence, machine learning, computer vision, transfer learning, manifold learning, and shape analysis. I am also excited about interdisciplinary research, collaborating, and working with researchers from related fields. </p>
 
 <p> &ensp;</p>
 
