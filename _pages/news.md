@@ -6,7 +6,9 @@ author_profile: true
 
 {% include base_path %}
 
-* <p align="justify"> July/08/2022. Our paper "SCORN: Sinter Composition Optimization with Regressive Convolutional Neural Network" is accepted in MDPI Solids.  </p>
+* Aug./24/2022. [I worked at Yeshiva University as an assistant professor in the artificial intelligence department.](https://blogs.yu.edu/katz-school/2022/08/24/expert-in-deep-neural-networks-and-computer-vision-joins-ai-faculty)
+
+<!-- * <p align="justify"> July/08/2022. Our paper "SCORN: Sinter Composition Optimization with Regressive Convolutional Neural Network" is accepted in MDPI Solids.  </p>
 
 * <p align="justify"> May/18/2022. Our paper "Unsupervised Few Shot Key Frame Extraction For Cow Teat Videos" is accepted in MDPI Data. </p>
 
@@ -22,7 +24,7 @@ author_profile: true
 
 * <p align="justify"> Sep./01/2021. I worked at Cornell University as a Postdoc. </p>
 
-* <p align="justify"> Aug./05/2021. I successfully defended my Ph.D. dissertation "Unsupervised Domain Adaptation for Visual Recognition". </p>
+* <p align="justify"> Aug./05/2021. I successfully defended my Ph.D. dissertation "Unsupervised Domain Adaptation for Visual Recognition". </p> -->
 
 
 
