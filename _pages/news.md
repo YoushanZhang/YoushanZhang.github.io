@@ -6,6 +6,8 @@ author_profile: true
 
 {% include base_path %}
 
+* <p align="justify"> Nov./11/2022. Our paper "BirdSoundsDenoising: Deep Visual Audio Denoising for Bird Sounds" is accepted in WACV 2023. </p>
+
 * Aug./24/2022. [I worked at Yeshiva University as an assistant professor in the artificial intelligence department.](https://blogs.yu.edu/katz-school/2022/08/24/expert-in-deep-neural-networks-and-computer-vision-joins-ai-faculty)
 
 <!-- * <p align="justify"> July/08/2022. Our paper "SCORN: Sinter Composition Optimization with Regressive Convolutional Neural Network" is accepted in MDPI Solids.  </p>
