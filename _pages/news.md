@@ -6,6 +6,8 @@ author_profile: true
 
 {% include base_path %}
 
+* <p align="justify"> May/17/2023. Our paper "Complex Image Generation SwinTransformer Network for Audio Denoising" is accepted in INTERSPEECH 2023. </p>
+* <p align="justify"> May/15/2023. Our paper "LaksNet: an end-to-end deep learning model for self-driving cars in Udacity simulator" is accepted in FTC 2023. </p>
 * <p align="justify"> Nov./11/2022. Our paper "BirdSoundsDenoising: Deep Visual Audio Denoising for Bird Sounds" is accepted in WACV 2023. </p>
 
 * Aug./24/2022. [I worked at Yeshiva University as an assistant professor in the artificial intelligence department.](https://blogs.yu.edu/katz-school/2022/08/24/expert-in-deep-neural-networks-and-computer-vision-joins-ai-faculty)
