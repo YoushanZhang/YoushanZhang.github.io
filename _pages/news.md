@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+* <p align="justify"> Oct./18/2023. Three papers are accepted in International Conference on Digital Data Processing. </p>
 * <p align="justify"> July/03/2023. Our paper "DeepLabV3+ Vision Transformer for Visual Bird Sound Denoising" is accepted in IEEE Access. </p>
 * <p align="justify"> May/17/2023. Our paper "Complex Image Generation SwinTransformer Network for Audio Denoising" is accepted in INTERSPEECH 2023. </p>
 * <p align="justify"> May/15/2023. Our paper "LaksNet: an end-to-end deep learning model for self-driving cars in Udacity simulator" is accepted in FTC 2023. </p>
