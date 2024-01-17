@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+* <p align="justify"> Jan./16/2024. Welcome, Lakshmikar Reddy Polamreddy, to join my lab as a Ph.D. student. </p>
 * <p align="justify"> Dec./15/2023. Our paper "Regressive Vision Transformer for Dog Cardiomegaly Assessment" is accepted in Scientific Reports.</p>
 * <p align="justify"> Nov./03/2023. Our paper "LaksNet: an end-to-end deep learning model for self-driving cars in Udacity simulator" won the Emerging Research Award and 100$ cash prize.</p>
 * <p align="justify"> Oct./18/2023. Three papers are accepted in International Conference on Digital Data Processing. </p>
