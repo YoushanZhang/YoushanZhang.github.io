@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 {% include base_path %}
+* <p align="justify"> Aug./27/2024. Our paper "ClassVision: AI-Powered Classroom Attendance System" is accepted in IEEE DDP conference.</p>
+* <p align="justify"> Aug./26/2024. Welcome, Sahil Kumar, to join my lab as a Ph.D. student. </p>
 * <p align="justify"> Jun./06/2024. Three papers are accepted in INTERSPEECH 2024. </p>
 * <p align="justify"> May/18/2024. Our paper "Pink Guardian: A Gateway to Early Breast Cancer Detection" has been accepted at the 16th International Conference on Human System Interaction HSI 2024 conference. </p>
 * <p align="justify"> Jan./16/2024. Welcome, Lakshmikar Reddy Polamreddy, to join my lab as a Ph.D. student. </p>
