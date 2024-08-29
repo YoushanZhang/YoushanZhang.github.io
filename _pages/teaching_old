@@ -1,0 +1,71 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching_old/
+author_profile: True
+---
+
+<p>&ensp;</p>
+
+<h1> Courses </h1>
+
+<!-- -
+<ol type="1">
+  <li> \[[Artificial Intelligence](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/_teaching/2022-Fall-teaching-Artificial-Intelligence.md)\]
+  <li> Computer Vision
+</ol>
+- -->
+
+
+<!-- {% include base_path %}
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %} -->
+
+
+
+
+<p>&ensp;</p>
+
+<h1>  Neural Networks & Deep Learning </h1>
+Spring 2023, Fall 2023, Fall 2024
+<!-- <ol type="1">
+  <li> Lakshmikar Reddy Polamreddy           (Ph.D.        2024/01 -        ) </li>
+  <li> Sahil Kumar                           (Ph.D.        2024/08 -        ) </li>
+  <li> Junhui Li                             (Ph.D.        2024/08 -        ) </li>
+  <li> Yuxiao Yao                            (Master       2024/05 -        ) </li>
+  <li> Nikhil Deekonda                       (Master       2024/08 -        ) </li>
+</ol> -->
+
+<p>&ensp;</p>
+
+<h1> Machine Learning </h1>
+Spring 2023
+
+<h1> Artificial Intelligence </h1>
+Fall 2022
+
+<h1> Computer Vision </h1>
+Fall 2022
+
+<!-- <ol type="1">
+  <li> Sheng-Han Yueh           (Master        2023/05 - 2024/05, Yeshiva University) </li>
+  <li> Radek Holik              (Master        2023/05 - 2024/05, Yeshiva University) </li>
+  <li> Sayed Raheel Hussain     (Master        2023/05 - 2024/05, Yeshiva University) </li>
+  <li> Yujie Wu                 (Master        2023/05 - 2024/05, Yeshiva University) </li>
+  <li> Pinxue Lin               (Master        2023/05 - 2024/05, Yeshiva University) </li>
+  <li> Pu Wang                  (Undergraduate 2021/09 - 2024/05) </li>
+  <li> Haomiao Liu           (Master        2021/09 - 2022/05, Cornell University) </li>
+  <li> Pawat Rithipreedanant (Undergraduate 2019/06 - 2019/08, Lehigh University) </li>
+  <li> Thomas Szewczyk       (Undergraduate 2019/06 - 2019/08, Lehigh University) </li>
+</ol>
+ -->
+
+
+
+
+<!-- {% include base_path %}
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %} -->
+
