@@ -146,3 +146,28 @@ Transfer Learning
 <hr  size="5">
 
 
+
+<p>&ensp;</p>
+
+# Funding
+<hr  size="5">
+
+<hr width="100%;" color="black" size="5">
+Thanks to the following funding agencies for their support of my research.
+
+External Grants:
+
+Cardiomegaly detection from deep learning to clinical trials (NSF CRII)
+
+Internal Grants:
+
+Katz bot 2.0 (Yeshiva University, Faculty Research Award, 2024-2025, PI)
+Dementia Care Training Chatbot Development (Yeshiva University, Faculty Research Award, 2024-2025, Co-PI)
+Clinical Innovation in Rare Diseases Interactive Information Hub (Yeshiva University, Katz School Grant, 2024-2025, Co-PI)
+Machine Learning Chat Robot for Students (Yeshiva University, Katz School Grant, 2023-2024, PI)
+Image Generation for Medical Applications (Yeshiva University, Katz School Grant, 2022-2023, PI)
+
+
+
+
+
