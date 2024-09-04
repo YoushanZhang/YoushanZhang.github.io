@@ -5,7 +5,7 @@ author_profile: true
 ---
 <p>&ensp;</p>
 
-Other research projects can be found <a href="https://youshanzhang.github.io/AiAI/">[here]</a>.
+More recent research projects can be found <a href="https://youshanzhang.github.io/AiAI/">[here]</a>.
 
 Transfer Learning
 ======
