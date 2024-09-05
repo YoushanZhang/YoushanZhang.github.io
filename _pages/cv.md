@@ -56,6 +56,12 @@ Internship Experiences
 
 Service
 ======
+### Conference Program Chair
+
+* [IEEE Digital Data Processing (DDP 2024)](https://socio.org.uk/ddp/programme-committee/)
+  
+<p>&ensp;</p>
+
 ### Conferences
 * European Conference on Computer Vision (ECCV)
 * IEEE International Conference on Image Processing (ICIP)
