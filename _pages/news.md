@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-* <p align="justify"> Sep./04/2024: A grant (NSF CRII-) is awarded. Thanks NSF and Collaborators! </p>
+* <p align="justify"> Sep./04/2024: A grant (NSF CRII-2348440) is awarded. Thanks NSF and Collaborators! </p>
 * <p align="justify"> Aug./27/2024. Our paper "ClassVision: AI-Powered Classroom Attendance System" is accepted in IEEE DDP conference.</p>
 * <p align="justify"> Aug./26/2024. Welcome, Sahil Kumar, to join my lab as a Ph.D. student. </p>
 * <p align="justify"> Jun./06/2024. Three papers are accepted in INTERSPEECH 2024. </p>
