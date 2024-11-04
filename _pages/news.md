@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 {% include base_path %}
+* <p align="justify"> Oct./26/2024. Our paper "SparrowVQE: Visual Question Explanation for Course Content Understanding" has been accepted at the IEEE Big Data conference (acceptance rate: 18.8%).</p>
+* Sep.30- Oct.1: We successfully hold the [IEEE DDP conference](https://socio.org.uk/ddp/), [Post](https://www.linkedin.com/mwlite/profile/in/youshan-zhang-623a12167/recent-activity). 
 * <p align="justify"> Sep./04/2024: A grant (NSF CRII-2348440) is awarded. Thanks NSF and Collaborators! </p>
 * <p align="justify"> Aug./27/2024. Our paper "ClassVision: AI-Powered Classroom Attendance System" is accepted in IEEE DDP conference.</p>
 * <p align="justify"> Aug./26/2024. Welcome, Sahil Kumar, to join my lab as a Ph.D. student. </p>
