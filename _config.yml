@@ -86,7 +86,8 @@ author:
   location         : "NYC, NY"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=47ItLM8AAAAJ&hl=en"
+  # googlescholar    : "https://scholar.google.com/citations?user=47ItLM8AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=6f1D9MkAAAAJ&hl=en&authuser=2"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Youshan-Zhang-2"
   uri              :
