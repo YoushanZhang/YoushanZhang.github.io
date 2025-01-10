@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-More articles are available at my [Google Scholar](https://scholar.google.com/citations?user=47ItLM8AAAAJ&hl=en).
+More articles are available at my [Google Scholar](https://scholar.google.com/citations?user=6f1D9MkAAAAJ&hl=en).
   
 1. Zhang, Y., & Li, J. (2023). BirdSoundsDenoising: Deep Visual Audio Denoising for Bird Sounds. In <em>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision</em>. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/BirdSoundsDenoising_Deep_Visual_Audio_Denoising_for_Bird_Sounds.pdf)\] \[[Supp](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/Supp_BirdSoundsDenoising__Deep_Visual_Audio_Denoising_for_Bird_Sounds_WACV.pdf)\] \[[code](https://github.com/YoushanZhang/BirdSoundsDenoising)\]
 2. Li, J,, Guo L., Zhang, Y. (2022). SCORN: Sinter Composition Optimization with Regressive Convolutional Neural Network. <em>Solids</em>. \[[paper](https://github.com/YoushanZhang/YoushanZhang.github.io/blob/master/files/solids-03-00029.pdf)\]\[[code](https://github.com/YoushanZhang/SCORN)\]
