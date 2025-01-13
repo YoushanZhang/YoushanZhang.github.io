@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 * <p align="justify"> Jan./2/2025. Our paper "Polyp Detection in Colonoscopy Videos via Boosted Multi-Scale Feature Fusion" has been accepted by the ISBI 2025 conference.</p>
-* <p align="justify"> Jan./1/2025. Two papers are accepted by the WACV workshop: Image/Video/Audio Quality in Computer Vision and Generative AI</p>
+* <p align="justify"> Jan./1/2025. Two papers are accepted by the WACV workshop: Image/Video/Audio Quality in Computer Vision and Generative AI.</p>
 * <p align="justify"> Nov./11/2024. Our paper "Diffusion Data Augmentation for Enhancing Norberg Hip Angle Estimation" has been accepted by the Veterinary Radiology & Ultrasound journal.</p>
 * <p align="justify"> Oct./26/2024. Our paper "SparrowVQE: Visual Question Explanation for Course Content Understanding" has been accepted at the IEEE Big Data conference (acceptance rate: 18.8%).</p>
 * Sep.30- Oct.1: We successfully hold the [IEEE DDP conference](https://socio.org.uk/ddp/), [Post](https://www.linkedin.com/mwlite/profile/in/youshan-zhang-623a12167/recent-activity). 
