@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 {% include base_path %}
-* <p align="justify"> Jan./27/2026. Welcome, Namrataben Pinkesh Patel, to join my lab as a Ph.D. student. </p>
+* <p align="justify"> Feb./18/2025. Our paper "Optimizing Veterinary Language Modeling with Mamba Architecture for Long-Sequence Efficiency" has been accepted by the IEEE/ACM CHASE 2025 conference.</p>
+* <p align="justify"> Jan./27/2025. Welcome, Namrataben Pinkesh Patel, to join my lab as a Ph.D. student. </p>
 * <p align="justify"> Jan./2/2025. Our paper "Polyp Detection in Colonoscopy Videos via Boosted Multi-Scale Feature Fusion" has been accepted by the ISBI 2025 conference.</p>
 * <p align="justify"> Jan./1/2025. Two papers are accepted by the WACV workshop: Image/Video/Audio Quality in Computer Vision and Generative AI.</p>
 * <p align="justify"> Nov./11/2024. Our paper "Diffusion Data Augmentation for Enhancing Norberg Hip Angle Estimation" has been accepted by the Veterinary Radiology & Ultrasound journal.</p>
