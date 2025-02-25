@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+* <p align="justify"> Feb./22/2025. Our paper "Automatic Teaching Platform on Vision Language Retrieval Augmented Generation" has been accepted by the 15th IEEE Integrated STEM Education Conference.</p>
 * <p align="justify"> Feb./18/2025. Our paper "Optimizing Veterinary Language Modeling with Mamba Architecture for Long-Sequence Efficiency" has been accepted by the IEEE/ACM CHASE 2025 conference.</p>
 * <p align="justify"> Jan./27/2025. Welcome, Namrataben Pinkesh Patel, to join my lab as a Ph.D. student. </p>
 * <p align="justify"> Jan./2/2025. Our paper "Polyp Detection in Colonoscopy Videos via Boosted Multi-Scale Feature Fusion" has been accepted by the ISBI 2025 conference.</p>
