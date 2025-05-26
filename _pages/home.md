@@ -16,10 +16,10 @@ redirect_from:
 <p> &ensp;</p>
 <p> &ensp;</p>
 
-Contact:
+ <!-- Contact:
 ======
 
-E-mail: youshan.zhang@yu.edu
+E-mail: youshan.zhang@yu.edu -->
 
 
 <p> &ensp;</p>
