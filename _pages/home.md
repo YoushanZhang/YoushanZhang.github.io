@@ -16,10 +16,7 @@ redirect_from:
 <p> &ensp;</p>
 <p> &ensp;</p>
 
- <!-- Contact:
-======
-
-E-mail: youshan.zhang@yu.edu -->
+ <!-- Contact: ====== E-mail: youshan.zhang@yu.edu -->
 
 
 <p> &ensp;</p>
